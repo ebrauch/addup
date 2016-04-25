@@ -1,0 +1,29 @@
+{
+  "name": "addup",
+  "version": "1.0.0",
+  "description": "Adds total attempts, yards, and games played for all players in armchar analysis' nfl database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebrauch/addup.git"
+  },
+  "keywords": [
+    "armchair",
+    "analysis",
+    "nfl",
+    "database",
+    "optimization"
+  ],
+  "author": "Evan Brauch <evan@4thand1.football> (http://4thand1.football)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebrauch/addup/issues"
+  },
+  "homepage": "https://github.com/ebrauch/addup#readme",
+  "dependencies": {
+    "mongoose": "^4.4.13"
+  }
+}
